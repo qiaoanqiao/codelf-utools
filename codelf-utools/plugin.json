@@ -10,7 +10,7 @@
     "features": [
         {
             "code": "pinText",
-            "explain": "翻译并搜索itHub、Bitbucket、GitLab以查找实际使用变量名称",
+            "explain": "翻译并搜索GitHub、Bitbucket、GitLab以查找实际使用变量名称",
             "cmds": [
                 {
                     "type": "over",
