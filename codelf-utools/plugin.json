@@ -1,0 +1,23 @@
+{
+    "pluginName": "codelf快速变量命名搜索",
+    "version": "1.0.0",
+    "description": "搜索GitHub、Bitbucket、GitLab以查找实际使用变量名称",
+    "author": "乔安",
+    "homepage": "https://www.fenxiangy.com",
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "main": "index.html",
+    "features": [
+        {
+            "code": "pinText",
+            "explain": "翻译并搜索itHub、Bitbucket、GitLab以查找实际使用变量名称",
+            "cmds": [
+                {
+                    "type": "over",
+                    "label": "codelf快速变量命名搜索",
+                    "minLength": 1
+                }
+            ]
+        }
+    ]
+}
