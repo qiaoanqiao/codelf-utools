@@ -14,8 +14,7 @@
             "cmds": [
                 {
                     "type": "over",
-                    "label": "codelf快速变量命名搜索",
-                    "minLength": 1
+                    "label": "codelf快速变量命名搜索"
                 }
             ]
         }
